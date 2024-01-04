@@ -1,2 +1,6 @@
 # Fire-Space-Game
-Bla
+Space Shooter "Aim Game", made using Python with Pygame.<br><br>
+
+.
+
+
